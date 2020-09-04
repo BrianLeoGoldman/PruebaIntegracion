@@ -6,6 +6,8 @@ plugins {
 	id 'eclipse'
 }
 
+gradle wrapper
+
 compileJava.options.encoding = 'utf-8'
 compileTestJava.options.encoding = 'utf-8'
 
